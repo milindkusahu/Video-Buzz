@@ -1,0 +1,18 @@
+{
+  "name": "video-buzz-backend",
+  "version": "1.0.0",
+  "description": "A backend for video buzz application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "express",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Milind Kumar Sahu",
+  "license": "ISC"
+}
